@@ -28,6 +28,11 @@ print(result)
 ```
 
 ## Output:
+
+![Screenshot 2025-03-13 134555](https://github.com/user-attachments/assets/b0197c81-c855-45fa-9394-08ac86282314)
+
+
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
